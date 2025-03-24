@@ -1,2 +1,2 @@
-# Python_projects
+# Python projects
 Python-based projects made by myself
