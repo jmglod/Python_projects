@@ -1,5 +1,6 @@
 # Szpilki_app
-Tkinter application
+> Tkinter application
+
 [EN]
 An application that helps medical students study for their exams.
 It alternately displays a random specimen image and its name, allowing for more effective learning progress tracking.
