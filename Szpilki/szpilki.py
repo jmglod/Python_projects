@@ -79,7 +79,7 @@ def start_function():
 # ---------------------------- UI SETUP ------------------------------- #
 
 window = Tk()
-window.title("Szpilunie Festunie")
+window.title("Szpilki_app")
 
 entry_szpilka = Entry(bg="white", fg="black", font=('Arial', 25))
 entry_szpilka.insert(0, "30")
